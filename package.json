@@ -1,0 +1,23 @@
+{
+  "name": "maphacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryWang05/MapHacks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarryWang05/MapHacks/issues"
+  },
+  "homepage": "https://github.com/HarryWang05/MapHacks#readme",
+  "devDependencies": {
+    "eslint": "^8.5.0",
+    "eslint-plugin-react": "^7.27.1"
+  }
+}
